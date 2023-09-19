@@ -10,7 +10,7 @@
     "react-media-player": "^0.7.7",
     "react-player": "^1.11.0",
     "react-redux": "^7.0.2",
-    "react-scripts": "2.1.8",
+    "react-scripts": "^2.1.8",
     "react-soundcloud-component": "^1.2.0",
     "react-soundcloud-widget": "^2.0.4",
     "react-soundplayer": "^1.0.4",

@@ -27,7 +27,7 @@ class Footer extends Component {
                             <i className="icon-instagram-1"></i>
                             <i className="icon-soundcloud"></i>
                         </div>
-                        <p className="footer-copywrite">© 2019 Hamiiid inspired by Salient Band. All Rights Reserved</p>
+                        <p className="footer-copywrite">© Rishabh Sakshi Ravi Ritika - Music Band Website</p>
                     </div>
                 </div>
                 </section>
